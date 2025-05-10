@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=6
+# https://projecteuler.net/problem=8
 
 from functools import reduce
 
